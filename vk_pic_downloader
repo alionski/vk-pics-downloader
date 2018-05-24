@@ -2,7 +2,7 @@
 ALBUM_TITLE='cats'; 
 # здесь заменяешь имя файла на тот, который ты только что скачал в консоли, т.е. сам сохраненный альбом
 ALBUM_HTML_FILE='cats_2.txt'
-# твой айди вместо id111111111
+# твой мейл
 USERID='email@example.com';
 # твой пароль вместо password
 PASSWORD='password';
